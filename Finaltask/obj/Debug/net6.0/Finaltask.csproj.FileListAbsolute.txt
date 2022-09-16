@@ -1,0 +1,15 @@
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\bin\Debug\net6.0\Finaltask.exe
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\bin\Debug\net6.0\Finaltask.deps.json
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\bin\Debug\net6.0\Finaltask.runtimeconfig.json
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\bin\Debug\net6.0\Finaltask.dll
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\bin\Debug\net6.0\Finaltask.pdb
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\obj\Debug\net6.0\Finaltask.csproj.AssemblyReference.cache
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\obj\Debug\net6.0\Finaltask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\obj\Debug\net6.0\Finaltask.AssemblyInfoInputs.cache
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\obj\Debug\net6.0\Finaltask.AssemblyInfo.cs
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\obj\Debug\net6.0\Finaltask.csproj.CoreCompileInputs.cache
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\obj\Debug\net6.0\Finaltask.dll
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\obj\Debug\net6.0\refint\Finaltask.dll
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\obj\Debug\net6.0\Finaltask.pdb
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\obj\Debug\net6.0\Finaltask.genruntimeconfig.cache
+C:\Users\Foxy\Documents\Обучение\Контрольная работа Разработчик\Finaltask\obj\Debug\net6.0\ref\Finaltask.dll
